@@ -4,71 +4,57 @@
 - Email: mth_dadalto@hotmail.com
 - Mobile: 07400259874
 
-Experienced software developer with a passion for tackling challenges and promoting team growth. Skilled in teaching, learning, and taking ownership. Seeking a role to expand my leadership skills while utilising my problem-solving abilities.
+Ambitious Senior Software Developer specializing in .NET technologies with a proven track record in mobile, web, and desktop development. Aspiring to leadership roles, I leverage my technical expertise and mentoring abilities to enhance team capabilities and drive project success. Passionate about innovative project execution and keen on advancing to Director or VP-level positions.
 
 ## Technical Skills
 
-- **Programming Languages**: C#, C/C++, PHP, NodeJS, Javascript, Typescript, Python, Java
-- **Frameworks & Libraries**: .NET, MAUI, Xamarin, WPF, AvaloniaUI, Dino, Redis, Phalcon
-- **Databases**: MySQL, Postgres, PostGREST, MongoDB, MSSQL
-- **DevOps & Tools**: Docker, Kubernetes, Git, AWS, CI/CD, Grafana
-- **Others**: Embedded/Firmware, Graphics, Arduino, IoT, Unity, Multi-threading, App Publishing (App Store, Play Store), Network & Sockets, Payment APIs (Paypal, Stripe), Social Media APIs (Fb API)
+- **Core Programming Languages**: C#, C/C++
+- **Web & Mobile Development**: .NET, ASP.NET, MAUI(.NET 8), Xamarin
+- **Frameworks & Libraries**: MAUI, Xamarin, AvaloniaUI, WPF
+- **Databases**: Postgres, PostGREST, MySQL, MSSQL
+- **DevOps & Tools**: Docker, Kubernetes, Git, AWS, CI/CD (GitLab), Supabase
+- **Others**: Embedded Systems, IoT, Multi-threading, Payment APIs (Paypal, Stripe)
 
 ## Experiences
 
-- **Founder and Developer** (Spare time personal project, Jan 2023 – Current)
-    - Creating business structure and software infrastructure to develop a full stack app solution using latest app and backend technologies such as MAUI, PostGREST and Postgres.
-- **Back End Developer - Ebit Labs LTD** (Full Remote(UK), Jun 2022 – Current)
-    - Mostly refactor and development of APIs and internal infrastructure, research and development of new analytical algorithms focused on NodeJS, Dino and Postgres.
-- **Senior Software Engineer - SnapOn Inc** (Weston-on-the-Green, Mar 2018 - Jun 2022)
-    - Responsible for designing and developing projects to run the main hardwares and apps with strong use of .NET, C++ and NodeJS.
-- **Software Engineer - Rational Labelling** (Brackley, UK, Sep 2017 - Mar 2018)
-    - Developed pre-planned projects to run the company’s hardware products and apps with strong use of .NET, C++ and Python.
-- **Back End Developer - SEO Organic** (Chipping Norton, UK, Jun 2017 – Nov 2017)
-    - Development of features to 2 E-Commerce projects using PHP, MySQL, Phalcon and some front-end development.
-- **Developer Freelancer - Contracts** (Remote, 2008 – May 2017)
-    - Mostly developed bespoke website protocols and systems to private game servers using PHP, MySQL and general front-end.
+- **Senior Software Engineer** (Yunex Traffic, Poole, Oct 2023 – Current)
+    - Develop critical software solutions using C++/Embedded on Linux platforms, employing Docker, GitLab CI/CD pipelines, and Jira for project management. Enhance team performance through peer mentoring and code reviews in a collaborative environment of 9 developers.
 
-## Qualifications and certifications
+- **Founder and Lead Developer** (TeamDoer, Jan 2023 – Current)
+    - Spearheaded the development of a sports team management app using .NET 8 and MAUI, transitioned backend services from ASP.NET to Supabase for scalability. Currently conducting open tests in the Play Store, aimed at optimizing team operations.
 
-I am self-taught, I personally worked my opportunities to grow my career, worked in and out to strive and show I am able to learn, deliver, improve and lead whenever there had a chance.
+- **Back End Developer** (Ebit Labs LTD, Full Remote(UK), Jun 2022 – Oct 2023)
+    - Led the research and development of new analytical algorithms, focusing on refining APIs and enhancing infrastructure using NodeJS and Postgres.
 
-## Languages
+- **Senior Software Engineer** (SnapOn Inc, Weston-on-the-Green, Mar 2018 - Jun 2022)
+    - Directed multiple high-impact projects, advancing core hardware and software capabilities using .NET, C++, and NodeJS, significantly enhancing system performance and reliability.
 
-- English(UK)
-- Portuguese(BR)
-- Italian (Basic)
+- **Software Engineer** (Rational Labelling, Brackley, UK, Sep 2017 - Mar 2018)
+    - Executed strategic software initiatives to enhance hardware integration and functionality with extensive use of .NET and Python, boosting operational efficiency.
 
 ## Professional Projects
 
-- **Personal project App/Backend**
-    - MAUI(.net7.0), Postgres SQL, PostGREST, Azure, Paypal, Twillo, Sendgrid, Firebase
-- **Analytics system app.thetokensite.com** [Refactoring/Participation]
-    - Dino, TypeScript, Docker, K8s, Crypto, NFT, Encryption, Algorithms, Analysis, CI/CD, Microservices(NATs), ArgoCD, Postgres SQL
-- **BackEnd API app.thetokensite.com** [Refactoring/Participation]
-    - NodeJS, KOA(nodejs-express-alike), Redis, Docker, K8s, Crypto, NFT, API, Encryption, Algorithms, Analysis, CI/CD(Github), Microservices(NATs), ArgoCD, Postgres SQL
-- **Xamarin App [TreadReader] (iOS, Android, Mac)** [From Scratch]
-    - Xamarin, NetStardard, C#, Sockets, TCP/UDP, Multi-thread, XML, API, Encryption, 3D, Imaging, GPU, Algorithms, Analysis, CI/CD 
-- **TreadReader HandHeld Windows/Linux/MAC Cross App** [From Scratch]
-    - C#, Avalonia, Core, Multi-Threading, Sockets, TCP/UDP, IPC, 3D, Imaging, GPU
-- **Hardware and Software R&D**, with partner companies, clients and team
-    - Field tests, Proof of Concepts, Requirements, Specifications, Development, Leading, Documentation, Reports, SLAs, Refactoring old hardware and software to increase product reliability and better costs
-- **Arduino and Espressif modules, testing and integration** (Improving Speed, reliability, and cost) [From scratch]
-    - C++/Arduino/Espressif code, Wifi, Sockets, UART, Multi-Threading
-- **TreadReader DriveOver Desktop App** [From scratch]
-    - C#, WPF, HTTP/s, GraphQL, Multi-Threading, Sockets, TCP/UDP, IPC, 3D, Imaging, GPU, IP Camera, Onvif, XML, API, Encryption
-- **TreadManager.net managing and development** [participation]
-    - PHP, C#, HTTP/s, NodeJS, GraphQL, Grafana, REST
-- **Standalone data uploader(Various)** (Upload through API the results from Ramp solution) [From scratch]
-    - C#, WPF, HTTP/s, GraphQL, Multi-Threading Git, Continuous development, Avalonia, Cross-Platform
-- **Installation Kits (Main PC Software, Inbuilt PC Software, and Firmware)** [Refactor legacy]
-    - Batch/CMD, Powershell, Inno Setup scripting Git, Continuous development
-- **Software render/conversion** (Convert Enc. cloud point data to rendered image)[From scratch]
-    - C++, OpenGL, Sockets, Advanced Algorithm, OpenCV, Git, Continuous development
-- **Firmware Controller (Product logic)** [Participation/Refactor]
-    - C++, Arduino, IoT, SBPC, C#, Sockets, UART/Serial, Hardware, Git, Continuous development
-- **API/Client sampling** (creating APIs and Using them) [From scratch]
-    - PHP, C#, Sockets/HTTP/s, MySQL
-- **3D scanning and modulation software** (Increasing speed and reliability, adding new features) [Participation/Refactor legacy]
-    - C++, Sockets, Multi-Threading, Boost, OpenCV, Git
-- More references and projects available on request
+- **Volunteer and Contractual Projects**
+    - Developed multiple applications for private game servers and game modding, using various programming languages and platforms, enhancing gameplay and server operations.
+
+- **TeamDoer App/Backend** [Lead Developer]
+    - Transitioned to MAUI (.net8.0), enhanced by integrating Azure services, Paypal for payments, and Twilio for communications.
+
+- **Analytics System (app.thetokensite.com)** [Technical Lead]
+    - Overhauled the backend using Dino and TypeScript within Dockerized environments, focusing on microservices architecture and CI/CD practices.
+
+## Qualifications and Certifications
+
+- Self-taught, continuously seeking professional development through industry-relevant courses and certifications.
+
+## Languages
+
+- English (UK)
+- Portuguese (BR)
+- Italian (Basic)
+
+## Professional Goals
+
+- Transition into leadership roles, aiming for Director/VP positions.
+- Continue mentoring and developing upcoming talents in software engineering.
+- Drive innovation and efficiency in software project management and execution.
